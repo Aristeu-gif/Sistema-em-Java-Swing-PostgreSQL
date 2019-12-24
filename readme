@@ -1,0 +1,4 @@
+Esse projeto é um CRUD (Create, Read, Update and Delete) básico com interface Swing do java.
+Para executar o projeto:
+1° Mude o login do banco de dados na classe /src/br/edu/ifg/ado ConectaAoBD.java
+2° Verifique se o drive do Postgresql está no projeto
